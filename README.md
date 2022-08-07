@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Discord: svenskithesource#2815
+- Python 🤩
+- Reverse Engineering (especially in Python, send over any samples you have)
+- Currently working on many projects, feel free to contribute 
+- Fiverr: https://fiverr.com/svenskithesourc
+
+![](https://komarev.com/ghpvc/?username=svenskithesource)
 <!--
 **Svenskithesource/Svenskithesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
