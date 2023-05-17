@@ -4,7 +4,6 @@
 - Python 🤩
 - Reverse Engineering (especially in Python, send over any samples you have)
 - Currently working on many projects, feel free to contribute 
-- Fiverr: https://fiverr.com/svenskithesourc
 
 ![](https://komarev.com/ghpvc/?username=svenskithesource)
 <!--
