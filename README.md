@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Discord: svenskithesource#2815
+- Discord: `svenskithesource`
 - Python 🤩
 - Reverse Engineering (especially in Python, send over any samples you have)
 - Currently working on many projects, feel free to contribute 
